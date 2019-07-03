@@ -1,2 +1,2 @@
-# Program in C# 
+# Console App in C# 
 ## Guess a number
